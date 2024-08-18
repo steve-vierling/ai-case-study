@@ -8,33 +8,46 @@
 
 * Founders of OpenAI: Sam Altman, Greg Brockman, Wojciech Zaremba, John Schulman, Elon Musk 
 
-* The idea for the company came about with OpenAI's mission 
- > "to build safe AI, and ensure AI’s benefits are as widely and evenly distributed as possible."[12]
+* The idea for the OpenAI came about to:
+ > develop "safe and beneficial" artificial general intelligence, which it defines as "highly autonomous systems that outperform humans at most economically valuable work"[1]
 
 * OpenAI began as a non-profit.  OpenAI raised $130M between 2015-2019. Mainly, OpenAI is funded by via its for-profit subsidiary, introduced in 2019, OpenAI Global, LLC.  Microsoft owns roughly 49% of OpenAI's equity, having invested $13B. Microsoft also provides computing resources via MS Azure.  In 2019, OpenAI went from non-profit to "capped" for-profit (profit is capped at 100 times any investment). How much funding have they received? After becoming a "capped" for-profit, Microsoft announced an investment package of $1B into OpenAI, which could be spent as soon as 2024. 1/23/23, Microsoft announced a new $10B investment in OpenAI Global, over multipe years.  So, adding up all those previous numbers, total funding is currently around $24.130B[11]
 
 ## Business Activities
 
-* The specific problem the company is trying to solve is to develop "safe and beneficial" artificial general intelligence, which it defines as "highly autonomous systems that outperform humans at most economically valuable work"[1]
+* The specific problem the company is trying to solve is: 
+ > "to build safe AI, and ensure AI’s benefits are as widely and evenly distributed as possible."[12]
 
 * OpenAI's intended customer is anyone who wants a search engine that is more intelligent than Google's traditional search engine (Google now has "Bard," its AI search engine). Currently, Microsoft is OpenAI's major customer.  Microsoft hopes to integrate OpenAI into Bing, Edge & MS 365. While I could not find info regarding the market size of this set of customers, Microsoft is one of the largest global technology companies. 
 
 * OpenAI offers competitors a more mature AI tool than competitors.  That is, OpenAI seems to be slightly ahead of other competitors as of this writing, Aug 2024. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 * Technologies OpenAI currently uses:
+
   *RoboSumo* - virtual world where humanoid metalearning robots have to learn basics as if they were infants, adversarial learning process
+
   *Gym Retro* - platform for reinforcement learning research on video games[2]
+
   *OpenAI Five* - a team of 5 OpenAI-curated bots that learn to play against human players at a high skill level entirely through trial-and-error algorithms. Utilizes deep reinforcement learning (DRL)
+
   *Multi* - a collaboraton platform based on Zoom.
+
   *Strawberry* - technology that lets AI plan ahead, navigate the internet by itself and conduct "deep research"[3][4]
+
   *Dactyl* - used machine learning to train a human-like robot hand to manipulate physical objects
+
   *API* - a multi-purpose API "for accessing new AI models developed by OpenAI" to let developers call on it for "any English language AI task"[5][6]
+
   *GPT* - Generative Pretrained Transformer; text generation   [infamous chatgpt tool](https://chatgpt.com/)
+
   *CLIP* - Contrastive Language-Image Pre-training; analyzes similarities between text and images
+
   *DALL-E* - Transformer model that creates images from text descriptions
+
   *Whisper* - Speech recognition model
+
   *MuseNet* - deep neural net trained to predict subsequent musical notes in MIDI music files
+
   *Jukebox* - open-sourced algorithm to generate music with vocals
 
 ## Landscape
