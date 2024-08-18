@@ -87,15 +87,16 @@ Here are 13 other companies that are also in AI[10]:
 * What are some of the core metrics that companies in the field of AI use to measure success? How is OpenAI performing based on these metrics?
 
 Some of the core metrics AI companies use to measure success are:
- 1. Model Performance Metrics - Accuracy; the percentage of correct predictions made by the model
- 2. Innovaton & Research Metrics - Number of publications & citations
- 3. Adoption & Utilization Metrics - Customer adoption, usage & market share
- 4. Business Impact Metrics - Revenue, Profitability, Cost Savings & Efficiency Gains 
- 5. Technical & Operational Metrics - Model Training Time & System Uptime 
+ 1. **Model Performance Metrics** - Accuracy; the percentage of correct predictions made by the model
+ 2. **Innovaton & Research Metrics** - Number of publications & citations
+ 3. **Adoption & Utilization Metrics** - Customer adoption, usage & market share
+ 4. **Business Impact Metrics** - Revenue, Profitability, Cost Savings & Efficiency Gains 
+ 5. **Technical & Operational Metrics** - Model Training Time & System Uptime 
 OpenAI is performing well in all of the above metrics.  OpenAI's GPT-3 & 4 show high performance in generating coherent text. OpenAI has published numerous influential papers & patents regarding AI research & specific technologies. Customers do adopt OpenAI's models.  OpenAI's API for GPT-3 has seen extensive usage.  OpenAI is generating significant revenue.  Business pay for OpenAI because it improves efficiencies and reduces costs.  Finally, OpenAI has high uptime for its API services.
 
 * How is OpenAI performing relative to competitors in the AI field?
-How is OpenAI performing relative to competitors in the AI field OpenAI is a leader in AI.  OpenAI is known for its advanced language models and significant research contributions.  However, competition remains robust against Google DeepMind, Microsoft, IBM & others. Each major player contributes their own strengths and innovations to the field of AI.
+
+OpenAI is a leader in AI.  OpenAI is known for its advanced language models and significant research contributions.  However, competition remains robust against Google DeepMind, Microsoft, IBM & others. Each major player contributes their own strengths and innovations to the field of AI.
 
 ## Recommendations
 
