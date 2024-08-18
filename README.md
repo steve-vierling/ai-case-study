@@ -2,13 +2,14 @@
 
 ## Overview and Origin
 
-* Company: OpenAI ![OpenAI](OpenAI-image.jpeg)
+* Company: ![OpenAI](OpenAI-image.jpeg)
 
 * OpenAI was founded December 2015.  OpenAI is not incorporated, as of 2019 it is a privately owned "capped" for-profit.
 
 * Founders of OpenAI: Sam Altman, Greg Brockman, Wojciech Zaremba, John Schulman, Elon Musk 
 
-* The idea for the company came about with OpenAI's mission > to build safe AI, and ensure AI’s benefits are as widely and evenly distributed as possible.[12]
+* The idea for the company came about with OpenAI's mission 
+ > "to build safe AI, and ensure AI’s benefits are as widely and evenly distributed as possible."[12]
 
 * OpenAI began as a non-profit.  OpenAI raised $130M between 2015-2019. Mainly, OpenAI is funded by via its for-profit subsidiary, introduced in 2019, OpenAI Global, LLC.  Microsoft owns roughly 49% of OpenAI's equity, having invested $13B. Microsoft also provides computing resources via MS Azure.  In 2019, OpenAI went from non-profit to "capped" for-profit (profit is capped at 100 times any investment). How much funding have they received? After becoming a "capped" for-profit, Microsoft announced an investment package of $1B into OpenAI, which could be spent as soon as 2024. 1/23/23, Microsoft announced a new $10B investment in OpenAI Global, over multipe years.  So, adding up all those previous numbers, total funding is currently around $24.130B[11]
 
@@ -16,7 +17,7 @@
 
 * The specific problem the company is trying to solve is to develop "safe and beneficial" artificial general intelligence, which it defines as "highly autonomous systems that outperform humans at most economically valuable work"[1]
 
-* OpenAI's intended customer is anyone who wants a search engine that is more intelligent than Google's traditional search engine (Google now has "Bard," its AI search engine). Currently, Microsoft is OpenAI's major customer.  Microsoft hopes to integrate OpenAI into Bing, Edge & MS 365. While I could not find info regarding the market size of this set of customers, Microsoft is one of the largest global technolgy companies. 
+* OpenAI's intended customer is anyone who wants a search engine that is more intelligent than Google's traditional search engine (Google now has "Bard," its AI search engine). Currently, Microsoft is OpenAI's major customer.  Microsoft hopes to integrate OpenAI into Bing, Edge & MS 365. While I could not find info regarding the market size of this set of customers, Microsoft is one of the largest global technology companies. 
 
 * OpenAI offers competitors a more mature AI tool than competitors.  That is, OpenAI seems to be slightly ahead of other competitors as of this writing, Aug 2024. 
 
@@ -67,9 +68,11 @@ Here are 13 other companies that are also in AI[10]:
 ## Results
 
 * What has been the business impact of OpenAI so far?
+
  "OpenAI’s revenues have surpassed $2bn on an annualised basis, as the runaway success of its flagship artificial intelligence product ChatGPT puts it among the fastest-growing technology companies in history."[7]
 
 * What are some of the core metrics that companies in the field of AI use to measure success? How is OpenAI performing based on these metrics?
+
 Some of the core metrics AI companies use to measure success are:
  1. Model Performance Metrics - Accuracy; the percentage of correct predictions made by the model
  2. Innovaton & Research Metrics - Number of publications & citations
