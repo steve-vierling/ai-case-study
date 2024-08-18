@@ -100,15 +100,19 @@ How is OpenAI performing relative to competitors in the AI field OpenAI is a lea
 ## Recommendations
 
 * If you were to advise OpenAI, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
- I have read that Google DeepMind has done well in the field of medicine, by predicting protein structures. I think that OpenAI should also focus on the field of medicine.  
+ 
+I have read that Google DeepMind has done well in the field of medicine, by predicting protein structures. I think that OpenAI should also focus on the field of medicine.  
 
 * Why do you think that offering this product or service would benefit the company?
+
 Medicine is such an enormous area of explosive growth.  I expect that OpenAI could benefit financially from predicting future medical trends or more specific medical procedures. 
 
 * What technologies would this additional product or service utilize?
+
  I think that OpenAI would need to create new technologies in order to compete with Google DeepMind's reinforcement learning. 
 
 * Why are these technologies appropriate for your solution?
+
 DeepMind is supposed to excel in complex problem-solving while OpenAI excels in natural language processing(NLP). So, OpenAI should take a page from Google and focus on a new technology to improve reinforcement learning.  Hopefully, that would help OpenAI to make strides in the field of medicine.    
 
 ## References
